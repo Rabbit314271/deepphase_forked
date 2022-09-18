@@ -28,3 +28,5 @@ which is calculated as ((V_i in R_i) - (V_(i-1) in R_(i-1))) / dt,
 where V is the velocity and R is the root transformation at frame i.
 
 Data Sample: J_1 T_-60 X, ..., J_1 T_+60 X, J_1 T_-60 Y, ..., J_1 T_+60 Y ..., J_N T_-60 Z, ..., J_N T_+60 Z
+
+测试
